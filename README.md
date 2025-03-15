@@ -2,17 +2,6 @@
 
 A classic Tic Tac Toe game built with React, demonstrating modern JavaScript techniques, component-based architecture, and state management using hooks. This project is an excellent example of applying functional programming principles and event-driven UI development in a simple, interactive game.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Technical Features](#technical-features)
-- [Skills Applied](#skills-applied)
-- [Project Structure](#project-structure)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 This project implements a two-player Tic Tac Toe game where players take turns selecting squares on a 3x3 grid. The game logic checks for winning combinations or a draw, and provides a rematch option upon game completion. Key React concepts such as hooks, state management, and component composition are utilized to build an engaging user interface.
